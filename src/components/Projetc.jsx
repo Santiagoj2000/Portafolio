@@ -36,7 +36,7 @@ const projects = [
         img: <img src={proyecto4} alt="imagen de proyecto 4" />,
         description: "Este proyecto implementa un formulario dinamico con colores muy llamativos y atractivos visualmente, se utiliza varios hook como useState y la libreria de bootstrap, se emplea la tecnologia de Java Script y CSS.",
         github: "https://github.com/Santiagoj2000/dynamic-form.git",
-        deploy: "https://testimonios-blond.vercel.app/?vercelToolbarCode=c1icdgewyN-posa"
+        deploy: "https://dynamic-form-phi.vercel.app/?vercelToolbarCode=87pPxcUl5VEjFp2"
     }
 ]
 
