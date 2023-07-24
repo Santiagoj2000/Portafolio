@@ -28,7 +28,7 @@ const projects = [
         img: <img src={proyecto3} alt="imagen de proyecto 3" />,
         description: "Este proyecto implementa la funcionalidad children del argumento porps que nos permite mostrar el texto encerrado en un componente dato, al igual que el anterior hacemos uso del hook useState. Esta diseñado en Java Script y CSS.",
         github: "https://github.com/Santiagoj2000/calculadora.git",
-        deploy: "https://testimonios-blond.vercel.app/?vercelToolbarCode=c1icdgewyN-posa"
+        deploy: "https://calculadora-six-bay.vercel.app/"
     },
     {
         id: 3,
